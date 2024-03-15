@@ -1,5 +1,3 @@
-https://pythonistaplanet.com/python-programming-exercises-and-solutions/
-
 -1. Python program to check whether the given number is even or not.  
 -2. Python program to convert the temperature in degree centigrade to Fahrenheit        
 -3. Python program to find the area of a triangle whose sides are given  
@@ -36,6 +34,8 @@ https://pythonistaplanet.com/python-programming-exercises-and-solutions/
 33. Python program to print all the items in a dictionary 
 34. Python program to implement a calculator to do basic operations  
 35. Python program to draw a circle of squares using Turtle     
+
+Source of list: https://pythonistaplanet.com/python-programming-exercises-and-solutions/
 
 #DISCLAIMER: Answers to these excercises focus only on completing the problem, not avoiding input errors TypeError and ValueError
 #User Input can be checked with Try/Except but this is not the focus of this repo
