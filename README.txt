@@ -5,11 +5,12 @@ https://pythonistaplanet.com/python-programming-exercises-and-solutions/
 -3. Python program to find the area of a triangle whose sides are given  
 -4. Python program to find out the average of a set of integers  
 -5. Python program to find the product of a set of real numbers   
-6. Python program to find the circumference and area of a circle with a given radius    
-7. Python program to check whether the given integer is a multiple of 5 
-8. Python program to check whether the given integer is a multiple of both 5 and 7       
-9. Python program to find the average of 10 numbers using while loop    
-10. Python program to display the given integer in a reverse manner    
+-6. Python program to find the circumference and area of a circle with a given radius    
+-7. Python program to check whether the given integer is a multiple of 5 
+-8. Python program to check whether the given integer is a multiple of both 5 and 7       
+-9. Python program to find the average of 10 numbers using while loop    
+-10. Python program to display the given integer in a reverse manner   
+
 11. Python program to find the geometric mean of n numbers  
 12. Python program to find the sum of the digits of an integer using a while loop             
 13. Python program to display all the multiples of 3 within the range 10 to 50   
