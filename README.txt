@@ -8,10 +8,10 @@
 -8. Python program to check whether the given integer is a multiple of both 5 and 7       
 -9. Python program to find the average of 10 numbers using while loop    
 -10. Python program to display the given integer in a reverse manner   
+-11. Python program to find the geometric mean of n numbers  
+-12. Python program to find the sum of the digits of an integer using a while loop             
+-13. Python program to display all the multiples of 3 within the range 10 to 50   
 
-11. Python program to find the geometric mean of n numbers  
-12. Python program to find the sum of the digits of an integer using a while loop             
-13. Python program to display all the multiples of 3 within the range 10 to 50   
 14. Python program to display all integers within the range 100-200 whose sum of digits is an even number    
 15. Python program to check whether the given integer is a prime number or not           
 16. Python program to generate the prime numbers from 1 to N 
