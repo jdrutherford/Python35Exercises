@@ -11,10 +11,10 @@
 -11. Python program to find the geometric mean of n numbers  
 -12. Python program to find the sum of the digits of an integer using a while loop             
 -13. Python program to display all the multiples of 3 within the range 10 to 50   
+-14. Python program to display all integers within the range 100-200 whose sum of digits is an even number    
+-15. Python program to check whether the given integer is a prime number or not           
+-16. Python program to generate the prime numbers from 1 to N 
 
-14. Python program to display all integers within the range 100-200 whose sum of digits is an even number    
-15. Python program to check whether the given integer is a prime number or not           
-16. Python program to generate the prime numbers from 1 to N 
 17. Python program to find the roots of a quadratic equation    
 18. Python program to print the numbers from a given number n till 0 using recursion  
 19. Python program to find the factorial of a number using recursion   
